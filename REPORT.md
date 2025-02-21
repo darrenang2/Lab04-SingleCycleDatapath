@@ -1,3 +1,9 @@
+Name: Darren Ang
+Email: dang004@ucr.edu
+Assignment name: Lab04-SingleCycleDatapath
+Lab section: 21
+TA: Nurlan Nazaraliyev
+
 ## Section 1
 I had some issues with getting the test cases to pass as I was trying to wire everything from scratch instead of using tunnels.\
 Once I switched to tunnels everything was simpler and I managed to pass all the test cases.
