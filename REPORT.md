@@ -1,7 +1,7 @@
-Name: Darren Ang
-Email: dang004@ucr.edu
-Assignment name: Lab04-SingleCycleDatapath
-Lab section: 21
+Name: Darren Ang\
+Email: dang004@ucr.edu\
+Assignment name: Lab04-SingleCycleDatapath\
+Lab section: 21\
 TA: Nurlan Nazaraliyev
 
 ## Section 1
